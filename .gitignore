@@ -1,0 +1,62 @@
+.vs/
+*.user
+*.suo
+*.cache
+*.ilk
+*.ncb
+*.obj
+*.pch
+*.pdb
+*.ipch
+*.tlog
+*.log
+*.vspscc
+*.vssscc
+*.vscode
+
+# Build results
+bin/
+debug/
+Debug/
+release/
+Release/
+obj/
+
+# Windows image file caches
+Thumbs.db
+*.ds_store
+
+# User-specific files
+*.rsuser
+*.rsuserstate
+*.sln.docstates
+*.userprefs
+*.userosettings
+
+# Visual Studio temp files
+*.log
+*.tlog
+*.lastcodeanalysissucceeded
+
+# IDE folders
+.idea/
+.vscode/
+_ReSharper*/
+
+# Dotnet build artifacts
+*.deps.json
+*.runtimeconfig.json
+*.runtimeconfig.dev.json
+*.dotsettings.user
+
+# Uncomment if you have Rider IDE settings
+.idea/*
+.idea/.idea/*
+.idea/.*/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/libraries
+.idea/scopes
+.idea/tasks.xml
+.idea/vcs.xml
