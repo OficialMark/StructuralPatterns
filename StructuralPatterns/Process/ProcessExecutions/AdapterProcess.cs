@@ -1,7 +1,7 @@
 ﻿using StructuralPatterns.Process.AdapterPattern.Controller.AdapterPattern;
 using StructuralPatterns.Process.AdapterPattern.View.AdapterPattern;
 
-namespace StructuralPatterns.Process.Executions
+namespace StructuralPatterns.Process.ProcessExecutions
 {
     public static class AdapterProcess
     {

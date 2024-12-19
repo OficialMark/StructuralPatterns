@@ -1,7 +1,7 @@
 ﻿using StructuralPatterns.Process.BrigdePattern.Controller;
 using StructuralPatterns.Process.BrigdePattern.View;
 
-namespace StructuralPatterns.Process.Executions
+namespace StructuralPatterns.Process.ProcessExecutions
 {
     internal class BridgeProcess
     {

@@ -1,6 +1,6 @@
 ﻿using StructuralPatterns.Process.CompositePattern.Controller;
 
-namespace StructuralPatterns.Process.Executions
+namespace StructuralPatterns.Process.ProcessExecutions
 {
     public class CompositeProcess
     {
