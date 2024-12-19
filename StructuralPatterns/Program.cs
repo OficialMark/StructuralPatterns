@@ -1,6 +1,4 @@
-﻿
-using StructuralPatterns.Process;
-using Strutuctural_Patterns.Process;
+﻿using StructuralPatterns.Process.Executions;
 
 class Program
 {
@@ -8,8 +6,9 @@ class Program
     {
         //Basta descomentar para executar cada pattern
 
-        AdapterProcess.Execute();
+        //AdapterProcess.Execute();
         //BridgeProcess.Execute();
+        //CompositeProcess.Execute();
     }
 
 }
