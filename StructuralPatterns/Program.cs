@@ -10,7 +10,7 @@ class Program
         //BridgeProcess.Execute();
         //CompositeProcess.Execute();
         //FacadeProcess.Execute();
-        FlyweightProcess.Execute();
+        //FlyweightProcess.Execute();
+        ProxyProcess.Execute();
     }
-
 }
